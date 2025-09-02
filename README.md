@@ -26,17 +26,17 @@ A small static site for AI resources at TUCN, guides and quick links. Provides a
 - **GitHub Pages** — Static hosting
 
 ## Quick start
-1. Install
-   npm install
+### 1. Install
+  -  `npm install`
 
-2. Dev
-   npm run dev
-   open http://localhost:<port>
+### 2. Dev
+ -  `npm run dev`
+ - open ``http://localhost:<port>``
 
-3. Build & preview
-   npm run build
-   npm run preview
-   open http://localhost:<port>/<page>.html
+### 3. Build & preview
+- `npm run build`
+- `npm run preview`
+- open ``http://localhost:<port>/<page>.html``
 
 ## Reach & usage
 - Intended to be a low-bandwidth, easily editable resource portal for UTCN community members.
