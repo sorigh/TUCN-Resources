@@ -31,12 +31,12 @@ A small static site for AI resources at TUCN, guides and quick links. Provides a
 
 2. Dev
    npm run dev
-   # open http://localhost:<port>
+   open http://localhost:<port>
 
 3. Build & preview
    npm run build
    npm run preview
-   # open http://localhost:<port>/<page>.html
+   open http://localhost:<port>/<page>.html
 
 ## Reach & usage
 - Intended to be a low-bandwidth, easily editable resource portal for UTCN community members.
